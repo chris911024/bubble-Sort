@@ -1,4 +1,6 @@
 # bubblesort
+一次比較兩個元素，如果他們的順序錯誤就把他們交換過來，每次會將最大值升到最頂端。
+## 
 ![image](https://user-images.githubusercontent.com/67829896/203769824-d6769c53-4213-468f-aad0-d598c4be2f2b.png)
 ## 第一回合
 * n0, n1 開始比較，把比較大的放到右邊
